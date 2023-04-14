@@ -43,7 +43,7 @@ const Navbar = () => {
             className="px-4 cursor-pointer capitalize font-medium text-grey-500 
 				hover:scale-105 duration-200"
           >
-            <Link to={link} smooth duration={500} >{link}</Link>
+            <Link to={link} smooth duration={500} offset={-70} >{link}</Link>
           </li>
         ))}
       </ul>
