@@ -1,6 +1,7 @@
 import React from 'react'
 import lombook from '../assets/portfolio/Lombook.png'
 import personal from '../assets/portfolio/Portfolio.png'
+import ChaloApp from '../assets/portfolio/chaloAppRedesign.png'
 
 const Portfolio = () => {
     const portfolio = [
@@ -18,7 +19,7 @@ const Portfolio = () => {
         },
         {
             id:3,
-            src : personal,
+            src : ChaloApp,
             demoLink: 'https://mellifluous-fairy-293769.netlify.app/',
             codeLink: 'https://github.com/deepakchandra4/chalo-app-clone'
         },
