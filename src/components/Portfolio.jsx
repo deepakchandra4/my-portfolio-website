@@ -16,6 +16,12 @@ const Portfolio = () => {
             demoLink: 'https://moonlit-biscuit-0fd8a5.netlify.app/',
             codeLink: 'https://github.com/deepakchandra4/CodeClause-portfolio-website'
         },
+        {
+            id:3,
+            src : personal,
+            demoLink: 'https://mellifluous-fairy-293769.netlify.app/',
+            codeLink: 'https://github.com/deepakchandra4/chalo-app-clone'
+        },
         
         
     ]
