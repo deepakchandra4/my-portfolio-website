@@ -41,7 +41,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href:'https://drive.google.com/file/d/1cUnb2mHfQXL039ZPuNqcAkFk-IXig-f6/view?usp=share_link',
+      href:'https://beige-nedda-54.tiiny.site/',
       style: "rounded-br-md",
       download: true,
     },
